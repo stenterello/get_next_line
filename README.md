@@ -12,7 +12,7 @@ The "get_next_line" repository contains the C implementation of a function calle
 1. Clone the repository to your local system:
 
    ```shell
-   git clone https://github.com/yourusername/get_next_line.git
+   git clone https://github.com/stenterello/get_next_line.git
 
 2. Navigate to the main directory of the repository:  
 
